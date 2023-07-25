@@ -1,6 +1,6 @@
 # practiceLinq 🧾
 
-Project created to optimize the appointment system of a hospital, using C# and NetCore
+Project created to practice the methods in LINQ, using C#, LINQ and NetCore
 
 ## Skills 🛠
   C#, .NETCore and LINQ
